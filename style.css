@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(255, 235, 242);
+    color: rgb(115, 55, 75);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px; }
+
+/*i wish i were headeeeeeeeerr*/
+header {
+    background-color: rgb(222, 145, 170);
+    color: rgb(255, 250, 252);
+    text-align: center;
+    border: 3px solid rgb(185, 90, 120);
+    border-radius: 15px; }
+
+header h1 {
+    font-size: 35px; }
+
+nav a {
+    color: rgb(255, 250, 252);
+    font-size: 18px;
+    margin: 15px; }
+
+/*Aabout the prettiest girl in the world, aka ABOUT ME*/
+
+section {
+    background-color: rgb(255, 218, 230);
+    margin: 30px;
+    padding: 25px;
+    border: 2px solid rgb(220, 140, 165);
+    border-radius: 15px; }
+
+#about {
+    text-align: center; }
+
+#about h1 {
+    color: rgb(165, 65, 95); }
+
+#about img {
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(165, 65, 95);
+    border-radius: 100px; }
+
+.box {
+    background-color: rgb(255, 247, 249);
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid rgb(255, 155, 175);
+    border-radius: 15px; }
+
+.box h3 {
+    color: rgb(165, 65, 95);
+    font-size: 22px; }
+
+#findme {
+    background-color: rgb(245, 185, 205);
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid rgb(195,100, 130);
+    border-radius: 15px; }
+
+#findme h2 {
+    font-size: 25px; }
+
+#findme a {
+    color: rgb(130,50,80);
+    font-size: 18px; }
+
+/*proj*/
+
+#projects h1 {
+    color: rgb(165, 65, 95);
+    font-size: 40px;
+    text-align: center; }
+
+.project {
+    background-color: rgb(255, 235, 242);
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid rgb(255, 155, 175);
+    border-radius: 15px; }
+
+.project h2 {
+    color: rgb(130,50,80); }
+
+.project a {
+    color: rgb(130,50,80);
+    font-size: 18px; }
+
+/*blog*/
+#blog h1 {
+    color: rgb(165, 65, 95);
+    font-size: 40px;
+    text-align: center; }
+
+.blog h2 {
+    color: rgb(165, 65, 95); }
+
+/*footerrrr lolz*/
+footer {
+    background-color: rgb(195,100, 130);
+    color: rgb(255, 218, 230);
+    text-align: center;
+    padding: 20px;
+    border: 2px solid rgb(195,100, 130);
+    border-radius: 15px; }
+
+    
